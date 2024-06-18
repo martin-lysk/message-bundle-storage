@@ -130493,7 +130493,8 @@
 
 
 
-0,
+{"idHash":"902b08b0cd719f2531c3d0bc00bb5d812d60fa91de6bea633cefa16df87d7f6f", "hash":"75a5cd65f02573eaec93398fcfe8f892df788569529167e81c6c6299806a4833", "data": {"id":"mock_message_id_de","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"mock_bundle_human_id"}},
+
 
 
 
@@ -192845,7 +192846,8 @@
 
 
 
-0,
+{"idHash":"432659b40be1a091538b7a9926a33760a378e44b87e07639750e6887bc10bc53", "hash":"e2905ac7deef0377757cfe8702ff91e6c3daa1c091df6fd6efe2d24fae05d74c", "data": {"id":"mock_message_id_en","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Productsasdasd"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"mock_bundle_human_id"}},
+
 
 
 
