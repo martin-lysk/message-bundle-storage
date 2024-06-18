@@ -192846,7 +192846,7 @@
 
 
 
-{"idHash":"432659b40be1a091538b7a9926a33760a378e44b87e07639750e6887bc10bc53", "hash":"5c421bbff84f28da28cd6c61c77d067dddf73c6e2965cfd8287cd49b8c1317ed", "data": {"id":"mock_message_id_en","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Productsasdasdadasdasdasd"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"asdasdA productasdsad"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"text","value":"numProducts  productsasdasd"}]}],"bundleId":"mock_bundle_human_id"}},
+{"idHash":"432659b40be1a091538b7a9926a33760a378e44b87e07639750e6887bc10bc53", "hash":"f557cfb9f55df5d53a3ebb90e2b51919fc91d505581ae88aa3e4f49c8b9a4033", "data": {"id":"mock_message_id_en","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"Hello"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"asdasdA productasdsad"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"text","value":"numProducts  productsasdasd"}]}],"bundleId":"mock_bundle_human_id"}},
 
 
 
