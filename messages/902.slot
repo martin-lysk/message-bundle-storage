@@ -135040,7 +135040,8 @@
 
 
 
-0,
+{"idHash":"b2dac5727fbd583dcde4fe4781997dcafb424a9e0e772168213aa392f84d83e0", "hash":"4f3f5b0fde60f441f8b6488b452a27811ab454d01be813ec027d58414324c246", "data": {"id":"born_maroon_mayfly_pet","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"bold_mean_mongoose_seek"}},
+
 
 
 
@@ -192844,7 +192845,7 @@
 
 
 
-{"idHash":"432659b40be1a091538b7a9926a33760a378e44b87e07639750e6887bc10bc53", "hash":"c9c8fb95a59bc3dda0d24a54f592176f224c42736fd1b28e4e525889076b1a81", "data": {"id":"mock_message_id_en","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"mock_bundle_human_id"}},
+{"idHash":"432659b40be1a091538b7a9926a33760a378e44b87e07639750e6887bc10bc53", "hash":"eadfe3f25b2b82c8cf7271479aa0e81070efeb083bb9f0da8e90b11a65805ff1", "data": {"id":"mock_message_id_en","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products Updated"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"mock_bundle_human_id"}},
 
 
 
@@ -232277,7 +232278,8 @@
 
 
 
-0,
+{"idHash":"24ca695ea5620c0bd67c3912f77c329774a5abbd7ac72943bbe798670751e2d5", "hash":"5fce38e6a1c8a1350b6b8502cd345564a909954cdcb33b989b6de007996a4bbb", "data": {"id":"away_formal_lobster_compose","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte geupdated"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"bold_mean_mongoose_seek"}},
+
 
 
 
