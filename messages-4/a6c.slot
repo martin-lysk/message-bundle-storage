@@ -20147,7 +20147,7 @@
 
 
 
-{"idHash":"a6ca8480126fb1db4d286f8794f87f82eecb00aec252c0aebbcc7993a3d713ad", "hash":"6a8ddd2a1e38ca859469a4e9878563080cc58d0f975f0ff299c3bdc5a598470a", "data": {"id":"73d8c45a-4108-4e9f-9379-dc158db3fd80","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1ba43093-2e3e-47bc-bafe-b0a27974f4c0","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"soft_large_felix_renew"}},
+{"idHash":"a6ca8480126fb1db4d286f8794f87f82eecb00aec252c0aebbcc7993a3d713ad", "hash":"90f669508bb45350ccb0a4c402af4119265f1e4bbfcd5269776911b5f431f1fd", "data": {"id":"73d8c45a-4108-4e9f-9379-dc158db3fd80","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1ba43093-2e3e-47bc-bafe-b0a27974f4c0","match":[],"pattern":[{"type":"text","value":"newasdsad"}]}],"bundleId":"soft_large_felix_renew"}},
 
 
 
@@ -72408,7 +72408,8 @@
 
 
 
-0,
+{"idHash":"21ffed1590614809535371168d32d5c776f353988852e143690ab8216d2a46b6", "hash":"f8b97e3475f0438566d603bd8afb560b766e4d7d13a74bf66f2b1eab25da9407", "data": {"id":"4d377199-3640-4ca1-a090-f290380a608f","locale":"en","declarations":[],"selectors":[],"variants":[{"id":"888bf5b4-a4cc-415a-9445-be989d5e86fe","match":[],"pattern":[{"type":"text","value":"asdasd"}]}],"bundleId":"soft_large_felix_renew"}},
+
 
 
 
