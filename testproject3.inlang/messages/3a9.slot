@@ -19500,7 +19500,8 @@
 
 
 
-0,
+{"hash":"afedf8e1eb00ce085dc430d2c68c39942503f7f46b85af91c052585724ba3d54", "data": {"id":"that_mild_okapi_intend","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"major_proof_lion_fade"}},
+
 
 
 
@@ -145273,7 +145274,8 @@
 
 
 
-0,
+{"hash":"f81863202679fca62ce50ba1a6dc1bf7f23aaf557fef04f955074865e189104c", "data": {"id":"witty_left_mare_inspire","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"major_proof_lion_fade"}},
+
 
 
 
