@@ -1345,7 +1345,8 @@
 
 
 
-0,
+{"hash":"0527aa51fc7c8e1039e09f7b3500edf36abe344f64e34df9bbf34ed9442b5b76", "data": {"id":"5d5b5c58-e134-44d2-b7f5-9fa3189f479f","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"e2b4bb21-9aad-48b4-8484-5a0ae6986b0a","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"quiet_inclusive_gorilla_cure"}},
+
 
 
 
@@ -3131,7 +3132,8 @@
 
 
 
-0,
+{"hash":"3f3ccb5bbc798b3be5715d88ffd2471a96e3912a9866298b18faef9e37f3f864", "data": {"id":"b17c4a37-6cdf-42bb-9790-a4215e2f8271","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"db668ec3-6b59-41e9-921e-c7b70f78b0ee","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"agent_quiet_platypus_boost"}},
+
 
 
 
@@ -11771,7 +11773,8 @@
 
 
 
-0,
+{"hash":"57b011be4b150ee733932d9dcbf04c344db6c1ac647e15f121458911c536c273", "data": {"id":"068caa74-a384-4013-b2d9-1183300fd282","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"32215135-83c2-4936-8e6d-9001f542a866","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"slimy_sound_ox_bubble"}},
+
 
 
 
@@ -13909,7 +13912,8 @@
 
 
 
-0,
+{"hash":"400b8ce4488d82e0aa12eff05f75a22afc9136ce01e2711333dc3e40ca8d616e", "data": {"id":"25221859-1c43-4ab4-9cb3-cdd4e5816600","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"171b87cf-77bd-41ac-ae4a-5a1d8bc917c2","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"mad_salty_kudu_treat"}},
+
 
 
 
@@ -20975,7 +20979,8 @@
 
 
 
-0,
+{"hash":"03eb69f411648564a7201ae87d37dcedf41278f4226dfebaa1343120a21d9804", "data": {"id":"7847d1da-3fd0-456b-8211-885b44af673a","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"ef087134-cf33-40b5-ac45-91ac649f4996","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"deft_mad_lionfish_push"}},
+
 
 
 
@@ -23125,7 +23130,8 @@
 
 
 
-0,
+{"hash":"1e5dd87096a0367652796a5e8aea2d3019566ad0e5e5f9b3632ef192b60c4174", "data": {"id":"30ac1c38-1b0e-46db-b915-b4eeed679d41","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"455d677d-b5e6-4136-9531-8ae6513335ec","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"still_basic_beetle_accept"}},
+
 
 
 
@@ -26042,7 +26048,8 @@
 
 
 
-0,
+{"hash":"6698f8dea87e74482e9af671ad34b8393a60194638bed37454ae72aef52dce55", "data": {"id":"aa7cfc63-725d-484d-9461-a09a65e2061d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"521864ae-d219-472e-a944-5cb55997863e","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"mellow_bright_albatross_bless"}},
+
 
 
 
@@ -29309,7 +29316,8 @@
 
 
 
-0,
+{"hash":"440e0fc73f83ab4e4955ce207cbfd5e1784909f3638d5b077ba3521bae4698a7", "data": {"id":"814791be-fd23-462e-b5d5-eeaa2a045678","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"dd5d399a-bdad-44c7-8a10-8cd21ba5dac0","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"only_solid_donkey_work"}},
+
 
 
 
@@ -30392,7 +30400,8 @@
 
 
 
-0,
+{"hash":"1570bdfeb80ba752d3e1d813d895f6319a1e62a8c85c00de89ce0d96ce35ea56", "data": {"id":"3d568ab9-e8d8-4208-9b85-493bce8f466d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"b7fe3cb7-a756-490e-ab2b-a310e66dfa2d","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"teal_active_grebe_fulfill"}},
+
 
 
 
@@ -47379,7 +47388,8 @@
 
 
 
-0,
+{"hash":"e2a416d0af05f933cf09419953dc50f73d548e1ab8f4f1ba8deccb38d3b8d21d", "data": {"id":"69df4648-9017-4dd8-810c-e689cf24aaa0","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"df263c74-8b30-47be-9ea0-32e4993c003c","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"dry_warm_spider_favor"}},
+
 
 
 
@@ -50191,7 +50201,8 @@
 
 
 
-0,
+{"hash":"c3cae0d25e5028173c6afeb15aeee100e840b08cf9d3d5807561848d0eadd7df", "data": {"id":"6bcfc745-f781-4fec-8ff8-4e5c3260b63d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"08083246-f105-416a-9ef4-7c30ea31c4aa","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"misty_seemly_nuthatch_gaze"}},
+
 
 
 
@@ -50301,7 +50312,8 @@
 
 
 
-0,
+{"hash":"f8347472617464b2ec9e7b1b81b8ce52ec901b64473aab0c4854b63152632e15", "data": {"id":"ae7832e8-38da-4895-9d03-fd2781c6ebf2","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"db5aeef8-4d50-45f0-8aef-88efc62bd1e2","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"merry_actual_mongoose_reap"}},
+
 
 
 
@@ -51075,7 +51087,8 @@
 
 
 
-0,
+{"hash":"a5c20ed84147e125c3c244e047ad5ee5b373edd2403426970487ca2491902ef3", "data": {"id":"512a9e77-1090-428e-b4fa-f60f08d47f3e","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"e3c83481-92bd-4770-bc4d-f54af0ef2742","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"gross_seemly_newt_aim"}},
+
 
 
 
@@ -59414,7 +59427,8 @@
 
 
 
-0,
+{"hash":"d7309a08db9e7ec8b14dd3e318c9b916db1c11a084736dd0957b6e3638f751e7", "data": {"id":"9f74e96a-7cf5-423f-91a9-090aacf740ab","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"996bff80-be47-464a-9b81-737c07905eaf","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"only_weird_opossum_scoop"}},
+
 
 
 
@@ -60653,7 +60667,8 @@
 
 
 
-0,
+{"hash":"889af084b77c33521fd85f4c490c5494a17ad2ad6cd5c7dfaa7362927e8b10d6", "data": {"id":"43cb5765-bb09-4599-afca-855418ba92b3","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"c0d1893e-1485-46cf-8ebc-7454044915a3","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"loose_maroon_badger_grasp"}},
+
 
 
 
@@ -61279,7 +61294,8 @@
 
 
 
-0,
+{"hash":"3c5835ea5c1a2f3516679002abae9754b947eaa5decf0e90351181de26aacf8f", "data": {"id":"69c6fd3f-33d4-4f9a-9cdb-86d339fb5405","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"02267377-bf51-4e88-85a5-3f05e754e634","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"just_noble_swallow_offer"}},
+
 
 
 
@@ -71430,7 +71446,8 @@
 
 
 
-0,
+{"hash":"b5c856eb98b138f5468f5dfc23c4be509d0c321fbe6b79467608c27e080e593f", "data": {"id":"c3753397-dca8-4660-b637-1593e4093697","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"9baf361f-fc2e-4bf8-b303-6418701df2b9","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"day_sour_spider_absorb"}},
+
 
 
 
@@ -75105,7 +75122,8 @@
 
 
 
-0,
+{"hash":"2bef0faf73de3c111a4f36dfee1d6a99a41228d284bb0de0b5b233ffb92d573d", "data": {"id":"cf055ef6-cf91-471c-9fd6-fdec0646118f","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"2c37cf97-bdcc-4477-ac36-53962a2796b7","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"topical_orange_liger_pause"}},
+
 
 
 
@@ -80151,7 +80169,8 @@
 
 
 
-0,
+{"hash":"ca97baba10cdda35166739df4382a378cdc4615ea092a2dd4a3d6257b91075f9", "data": {"id":"c47a8aba-75e4-48f1-ad80-2544bd32ffa5","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"35bedb49-0e70-4b92-b2ec-4c8a0252c7b3","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"knotty_lofty_ray_walk"}},
+
 
 
 
@@ -80549,7 +80568,8 @@
 
 
 
-0,
+{"hash":"903afdafa5bc92415bddad5ca9d0dd7a30314bcd45b57ce782a7c565c588f741", "data": {"id":"dee9a413-719b-45e8-8edc-1e1f61c9f884","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"8eb87a80-fb1e-466c-93f2-ddf9b869ffa7","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"topical_just_gibbon_nudge"}},
+
 
 
 
@@ -96213,7 +96233,8 @@
 
 
 
-0,
+{"hash":"d4a963a01d9bffe23b39935e2f3bb06c820db80eebade23eb8d36c4cea4dba2d", "data": {"id":"dfa0f60a-da0b-493e-92cb-937dc9f01284","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"8a5266a3-08d2-44d3-8278-b7c2abdfd619","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"livid_calm_bumblebee_fold"}},
+
 
 
 
@@ -112134,7 +112155,8 @@
 
 
 
-0,
+{"hash":"f360f050f4ae7bbf55146b4b8b8f85e70ff23e478d65602f751cb006465bdb6d", "data": {"id":"861d54d1-3e64-4db3-9314-465d117084a2","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"da7a506a-b0ac-4635-98c4-a5b1cdcba422","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"candid_day_swallow_dine"}},
+
 
 
 
@@ -113420,7 +113442,8 @@
 
 
 
-0,
+{"hash":"5a554e6ec1c2bc4704335021714222cc08df2773724c2f3f7a6eaaa7ac03a5c1", "data": {"id":"8cc4b2ec-cd6c-4753-98f8-055d24f80f8c","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"8d08c6a5-8d9e-4039-a725-8a968b603f7b","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"funny_brief_wren_lock"}},
+
 
 
 
@@ -113700,7 +113723,8 @@
 
 
 
-0,
+{"hash":"d3ea2ae29cdb1afd2627d880c0cc30fc1b04d6df940761368a2333ee731737d7", "data": {"id":"f5b6cc1f-f371-4d40-ab8f-13618fa3c900","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"dec1477e-bf13-4237-abd6-c9a35782146a","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"smart_vexed_wasp_jump"}},
+
 
 
 
@@ -121701,7 +121725,8 @@
 
 
 
-0,
+{"hash":"a910f6e78f6abdff3f9e7b8af82e4ded54265b5bbc78b53e93ce2ee3a29b8f05", "data": {"id":"b4a95838-ce80-4faa-8979-1521140e071d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1e46a0b5-66ac-4354-a517-7cb4c64ca455","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"smug_acidic_alligator_create"}},
+
 
 
 
@@ -129227,7 +129252,8 @@
 
 
 
-0,
+{"hash":"3316e42a25b03fa0b2024e1b5e69afb5415d6e48122ae421360c259dbc5fafc2", "data": {"id":"6eed5e59-0ccd-4ad5-bb7f-468b977e7a74","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"e5a01855-98ff-4e1f-bc24-dcac6946a03e","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"proof_swift_ostrich_jest"}},
+
 
 
 
@@ -131677,7 +131703,8 @@
 
 
 
-0,
+{"hash":"15965e2b62a2242d18cc55ef292ea3ae8fade93d08a966f916f5d9318feebd9e", "data": {"id":"40779cc1-ef4b-4b1c-bc33-ad24ea0acb01","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1bb27f5a-759e-4b6b-b9f9-b1b6559c7d84","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"knotty_super_gorilla_bless"}},
+
 
 
 
@@ -134744,7 +134771,8 @@
 
 
 
-0,
+{"hash":"90d61070d18a3b445c03718a20efe5db24f13266ed6e79807a6415276c18cf7e", "data": {"id":"b760857a-0757-45ca-8092-af40483a9814","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"8247215f-7b0c-43f7-a8e5-91d4d0dd8068","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"solid_raw_mink_yell"}},
+
 
 
 
@@ -135210,7 +135238,8 @@
 
 
 
-0,
+{"hash":"3a8dff5cc1e56e10850174492ba04c28b9e1717102cad838fd563a3f3adbd5ff", "data": {"id":"bab44ddc-714d-4d50-acc5-7f6f1934446b","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"82e6aa64-0817-4884-91ce-b846b468021d","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"witty_least_shrike_peek"}},
+
 
 
 
@@ -136111,7 +136140,8 @@
 
 
 
-0,
+{"hash":"3185981f1788e437a8c8b7be928604c2da141e59452ec77ea521b8277367b625", "data": {"id":"a6d09a37-48f4-4896-82fb-f001d714693a","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"271ef7f9-668e-477a-8f1f-8a0943ad361f","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"heroic_merry_marten_lend"}},
+
 
 
 
@@ -139784,7 +139814,8 @@
 
 
 
-0,
+{"hash":"cc6f9c27f94fbfb837fd7714fdd123bafc8dda921b51983810f2d5f11b3e8085", "data": {"id":"e0cfdfbc-56ec-44dc-8042-78387dacbdbc","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"b28182f5-3b51-4546-bfbc-07fdc7c4d70d","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"wise_zany_beetle_mix"}},
+
 
 
 
@@ -151859,7 +151890,8 @@
 
 
 
-0,
+{"hash":"918bbf6a28f2af35ee209a8c49469bcfc51032d7805afb45f1768765ba736fe2", "data": {"id":"9f7ebd7d-ac03-42fd-be78-6b45834717f3","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"0ecc2d5e-12f6-4931-a01f-83f285a96163","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"known_plain_ocelot_harbor"}},
+
 
 
 
@@ -153426,7 +153458,8 @@
 
 
 
-0,
+{"hash":"ae8df675572d3aa599319ca1cbfae0e21461f77c6a141657a0194f7535639723", "data": {"id":"dd17c3fc-3f26-48d7-bd3f-d6c11da3d06a","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1056fbfc-2034-4b8d-b1bf-c111dfb5a703","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"fresh_true_marmot_launch"}},
+
 
 
 
@@ -157301,7 +157334,8 @@
 
 
 
-0,
+{"hash":"1505e0e50f8614b03acfd2ef5de9e8b8e80921bb31cad767a9d708e59d3340a3", "data": {"id":"ebaaa252-f262-46ec-91f3-a118245c712b","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"3c8325bb-5115-4f4f-80c1-756eead3b9cf","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"tiny_nimble_husky_accept"}},
+
 
 
 
@@ -170899,7 +170933,8 @@
 
 
 
-0,
+{"hash":"c77cb3673053eec43702ba8639f5637389e211fdd3f68eac42f54b3b8f2b2cc6", "data": {"id":"ec76b174-77f7-4f5c-9fd5-6b12d4a11d9d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"392dacba-d76b-4926-912d-09034d8026fb","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"inner_proud_bobcat_persist"}},
+
 
 
 
@@ -173722,7 +173757,8 @@
 
 
 
-0,
+{"hash":"df3136d4abde2d159bec1362e1f484a1ce37d7dfc67fdbbc8bf78d669dd465a4", "data": {"id":"81ed4a73-4bb9-4ad2-b99d-0e4bcbc167e4","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"d4e1a9c3-a0b3-4cc5-81ef-53eac99a8f75","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"full_civil_florian_hack"}},
+
 
 
 
@@ -173946,7 +173982,8 @@
 
 
 
-0,
+{"hash":"a7675bf34865e938b7363fcebd8fb3613fe060613e7362a92c055503a84697e4", "data": {"id":"6cbf1a73-54f0-4700-846b-da15af89f5e2","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"9a10c841-3641-44a7-9ceb-e7396e1adb12","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"late_fine_wallaby_clasp"}},
+
 
 
 
@@ -186688,7 +186725,8 @@
 
 
 
-0,
+{"hash":"34d199d9694521686b97ec06248d62466e214de6ffcc07d1d8f2a32e98fb5c96", "data": {"id":"c65262ed-237a-4d66-a7f2-3274614733b0","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"6621105e-10f1-414c-84c8-92bbe4fde3d5","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"direct_tiny_hyena_flip"}},
+
 
 
 
@@ -187524,7 +187562,8 @@
 
 
 
-0,
+{"hash":"aabb4cc018ea1b603dd7c777c4431e8dbb5bf1cab31076b3cdbb0f0797693d5c", "data": {"id":"22ab937a-0984-44b6-8e44-e37c2e5134b8","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"50c35acf-3358-49dc-8d44-41a455f60288","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"ok_pretty_jackal_feel"}},
+
 
 
 
@@ -189011,7 +189050,8 @@
 
 
 
-0,
+{"hash":"202b6855513db58f4a360c0a220f3004899c0b773a0c15038b1b80fb56f147b0", "data": {"id":"a8fff9ee-2df5-4951-8cfb-bc8c83e84d3d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"40088baa-7f99-4ae2-b652-3fc9984f81b3","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"fluffy_fun_ladybug_pet"}},
+
 
 
 
@@ -192047,7 +192087,8 @@
 
 
 
-0,
+{"hash":"67c3c6809db13452524549d18ff42e2ffc58dc52ceec55f55faacf5e504c06f4", "data": {"id":"fa19b23c-a691-4fa7-8cbf-0aa1fecd11fa","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"14b97040-de24-476f-99b8-d920d42113d6","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"livid_quaint_hound_spin"}},
+
 
 
 
@@ -194484,7 +194525,8 @@
 
 
 
-0,
+{"hash":"b36624ef3580834f0b62e876f0ae04e5c37258d9d7bca770694f87fa3654369c", "data": {"id":"2194391d-7342-4d6c-a13e-6e706e75ffca","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"73c50f61-080a-4875-a145-532ee240c3c1","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"helpful_only_crab_grace"}},
+
 
 
 
@@ -206368,7 +206410,8 @@
 
 
 
-0,
+{"hash":"ddeec2bf427051fb8d42607f013691b2bb47ccf839228142e7a35407e83b310c", "data": {"id":"d324467c-a3a1-423e-bfc2-a40b00479e38","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"935b24d8-40cb-4983-8c12-d475aff76fa2","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"busy_round_eagle_mix"}},
+
 
 
 
@@ -206625,7 +206668,8 @@
 
 
 
-0,
+{"hash":"0a594228307a8fcf88361a14280466632280b0f2e4f75da93363882c61165c70", "data": {"id":"2e18c5e9-0072-4c0b-90dd-3b462e9fe5f4","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"8ef7066b-c273-446e-ba98-09163af3819c","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"upper_quick_wolf_delight"}},
+
 
 
 
@@ -213965,7 +214009,8 @@
 
 
 
-0,
+{"hash":"931bdaaf5df4cd34f4851a8475c41e11d3ef070087c22210aed67c5a862babc4", "data": {"id":"8bb113ff-337c-4177-bc7a-250656eeb60b","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"58ad25ea-f8ad-433b-8583-6302ab618f5d","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"wacky_royal_turtle_work"}},
+
 
 
 
@@ -218177,7 +218222,8 @@
 
 
 
-0,
+{"hash":"80c2b51b69c31e037bb18b759118698c55799b720ca1390204f932a5d725f797", "data": {"id":"abada10e-25a1-446f-8a1f-d2e1ae764b77","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1c24e93c-13ed-4bd8-8874-32978d95bd35","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"great_tired_cheetah_flop"}},
+
 
 
 
@@ -219720,7 +219766,8 @@
 
 
 
-0,
+{"hash":"76d379ad4ca013647368f93e7fc3eef9d989230642daed7e02ffb3ec6bfabd61", "data": {"id":"90ba0a50-b0f9-4177-9c49-57cbcb59646d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"149d2b8d-fbbc-424c-bc9f-a7bfd2365419","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"that_warm_whale_kick"}},
+
 
 
 
@@ -220661,7 +220708,8 @@
 
 
 
-0,
+{"hash":"66a528b4961cb863ef33f2b693038b14bfef203ae0651c33374746264dc82177", "data": {"id":"822a7b29-3617-4f1f-b532-32bec4651638","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"e6edb9ec-36cf-43c3-8387-ed430c5e049b","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"dirty_clear_kangaroo_charm"}},
+
 
 
 
@@ -221409,7 +221457,8 @@
 
 
 
-0,
+{"hash":"e83b0395d0335c9598edf405eadf6ba04acdac5bfc7ab1d7383bd2e0d84c42a3", "data": {"id":"5e477769-d3dc-4a00-b0c0-d73610e32a37","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"a6d42c9d-c439-45c3-afef-64f8a89a2541","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"clear_fluffy_peacock_pull"}},
+
 
 
 
@@ -223615,7 +223664,8 @@
 
 
 
-0,
+{"hash":"388be2e629fa04ee81baee529f360796d8ea2caa848108e6fe3aba982a9121c8", "data": {"id":"6ec8b9af-2f6d-431f-99d9-1ab2632a9626","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"2726405a-986c-431b-8cc4-5b15fbb8ec26","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"many_curly_racoon_pave"}},
+
 
 
 
@@ -226010,7 +226060,8 @@
 
 
 
-0,
+{"hash":"49f2d6eb36c2038a77c518ac32705e25c7cd7a81ab29b0e4d2abf83a89fd143d", "data": {"id":"ce4a22f8-f0cb-4732-8e3e-bac6b02a59a8","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"9b2afedf-308c-4a0c-a68a-55947aaf8353","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"less_north_wombat_stir"}},
+
 
 
 
@@ -229590,7 +229641,8 @@
 
 
 
-0,
+{"hash":"80e449cd305626feef8011a084d41aeccabafecdb2773421495f768da6313478", "data": {"id":"4a62f0d1-e96a-45ff-96f9-c9de5dd75a45","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"7f3a0f63-99ab-4490-833d-47d3cfc92cc0","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"long_bright_thrush_dream"}},
+
 
 
 
@@ -229715,7 +229767,8 @@
 
 
 
-0,
+{"hash":"561ded8b8509ee627f5e55877b8290fb26925d398ca5b476232fcca2194308af", "data": {"id":"f98ca990-ac89-4da8-a873-b2b9e8f92c82","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"1a231463-a758-4990-8e81-516b4f88ec44","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"antsy_day_elk_fall"}},
+
 
 
 
@@ -230740,7 +230793,8 @@
 
 
 
-0,
+{"hash":"ce6b9a5aa08da36bbcd86abaedd4b3c6f0b952dd1cdb08f6b09f2c4d607d46a7", "data": {"id":"6c641911-ac3a-44be-9751-55888e8af4c4","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"790b15f9-ef45-4b2f-9711-09ed56dfc629","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"aloof_weird_piranha_gulp"}},
+
 
 
 
@@ -252005,7 +252059,8 @@
 
 
 
-0,
+{"hash":"a2befe11b82ad4a1b51122c0629a78e1c681d927e5999a8d39f11dabff6d6f26", "data": {"id":"0d8f5631-e485-43a1-abff-0153152d3e2d","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"a4cae10f-3711-443b-af45-06ab386aebe4","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"equal_happy_tuna_walk"}},
+
 
 
 
@@ -254869,7 +254924,8 @@
 
 
 
-0,
+{"hash":"3e76cc1718c643db97206b3d8f23685b33e104ed6a999118aaefeae27acb3c23", "data": {"id":"0d6e2cf5-1d57-495a-8c84-7710a35bf860","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"47b98cc6-d21f-4615-920a-bb193382a5dd","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"front_many_rook_sway"}},
+
 
 
 
@@ -255653,7 +255709,8 @@
 
 
 
-0,
+{"hash":"5c9629cc5c55ca63983f2274a74d74a653be9c6816df76fc742a269e62e18fd0", "data": {"id":"7dca2edd-38ff-46d2-a838-4f66c0289633","locale":"de","declarations":[],"selectors":[],"variants":[{"id":"941f865f-77b4-47ac-ae86-82d9f7aead9e","match":[],"pattern":[{"type":"text","value":"new"}]}],"bundleId":"fit_yummy_hawk_type"}},
+
 
 
 
