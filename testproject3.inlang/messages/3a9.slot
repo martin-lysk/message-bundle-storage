@@ -18151,7 +18151,8 @@
 
 
 
-0,
+{"hash":"d9a2f5e3c7b1a925a0a6b4223e78adc3e6f4d7c1fe36ca24876484c2aeb8e89e", "data": {"id":"merry_fresh_jay_type","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"tense_zany_earthworm_bump"}},
+
 
 
 
@@ -34479,7 +34480,8 @@
 
 
 
-0,
+{"hash":"f714a6d96a60e2b5b909a66d489b7f1e0f6207f3c4cc4d7325578c954ee86b10", "data": {"id":"zesty_full_puma_trip","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"tense_zany_earthworm_bump"}},
+
 
 
 
