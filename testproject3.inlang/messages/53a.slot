@@ -73653,7 +73653,8 @@
 
 
 
-0,
+{"hash":"10e6057b56ab06494b3fb3fbf5700010ba95b3b7cdd0c953495473f601266dd8", "data": {"id":"sour_next_canary_trip","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"inner_loved_beaver_comfort"}},
+
 
 
 
