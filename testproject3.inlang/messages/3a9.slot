@@ -75937,7 +75937,8 @@
 
 
 
-0,
+{"hash":"e90157f26cabb76666d3749898e61e274ab794b2854a14d6aab4fccc5c45cb66", "data": {"id":"same_full_stingray_embrace","locale":"en","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_en_zero","match":["zero"],"pattern":[{"type":"text","value":"No Products"}]},{"id":"mock_variant_id_en_one","match":["one"],"pattern":[{"type":"text","value":"A product"}]},{"id":"mock_variant_id_en_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" products"}]}],"bundleId":"factual_flaky_camel_adore"}},
+
 
 
 
@@ -122085,7 +122086,8 @@
 
 
 
-0,
+{"hash":"495c4a301c4ee3e0b30217bf19798d29b0ef744237d5b58b02d20ad7dbb0e443", "data": {"id":"clean_honest_yak_trust","locale":"de","declarations":[{"type":"input","name":"numProducts","value":{"type":"expression","arg":{"type":"variable","name":"numProducts"}}},{"type":"input","name":"count","value":{"type":"expression","arg":{"type":"variable","name":"count"}}},{"type":"input","name":"projectCount","value":{"type":"expression","arg":{"type":"variable","name":"projectCount"}}}],"selectors":[{"type":"expression","arg":{"type":"variable","name":"numProducts"},"annotation":{"type":"function","name":"plural","options":[]}}],"variants":[{"id":"mock_variant_id_de_zero","match":["zero"],"pattern":[{"type":"text","value":"Keine Produkte"}]},{"id":"mock_variant_id_de_one","match":["one"],"pattern":[{"type":"text","value":"Ein Produkt"}]},{"id":"mock_variant_id_de_other","match":["other"],"pattern":[{"type":"expression","arg":{"type":"variable","name":"numProducts"}},{"type":"text","value":" Produkte"}]}],"bundleId":"factual_flaky_camel_adore"}},
+
 
 
 
