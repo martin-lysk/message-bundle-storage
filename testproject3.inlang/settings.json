@@ -17,6 +17,15 @@
     {
       "ruleId": "messageBundleLintRule.test.TODO",
       "level": "warning"
+    },
+    {
+      "ruleId": "messageBundleLintRule.inlangdev.makeOpralUppercase",
+      "level": "error"
     }
-  ]
+  ],
+  "languageTags": [
+    "en",
+    "de"
+  ],
+  "sourceLanguageTag": "en"
 }
