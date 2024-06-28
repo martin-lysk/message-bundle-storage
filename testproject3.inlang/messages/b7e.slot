@@ -81362,7 +81362,8 @@
 
 
 
-0,
+{"hash":"2a05e9b6738586f20a0fe6140aef8cab1c43506c20d83cd89db02a165d3d07c7", "data": {"id":"efd4fe32-669b-4cdf-92de-49c61e5cca97","locale":"en","declarations":[],"selectors":[],"variants":[{"id":"532d5024-b18d-4861-996a-3a14292566f8","match":[],"pattern":[{"type":"text","value":"Hallo welt"}]}],"bundleId":"acidic_born_larva_fold"}},
+
 
 
 
@@ -201642,7 +201643,8 @@
 
 
 
-0,
+{"hash":"bd5106866276e0343aa91ffa3a38abbe274fb213c054a15aa6bb94b3e99cd24d", "data": {"id":"65c18e4c-4a01-4e63-8a82-a94c9c03b067","locale":"en","declarations":[],"selectors":[],"variants":[{"id":"b8f3450c-7d13-4d82-aa43-4ec58aec4db3","match":[],"pattern":[{"type":"text","value":"Hallo"}]}],"bundleId":"acidic_awful_wolf_list"}},
+
 
 
 
