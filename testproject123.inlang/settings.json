@@ -1,0 +1,22 @@
+{
+  "$schema": "https://inlang.com/schema/project-settings",
+  "baseLocale": "en",
+  "locales": [
+    "en",
+    "de"
+  ],
+  "modules": [
+    "sdk-dev:opral-uppercase-lint.js",
+    "sdk-dev:missing-selector-lint-rule.js",
+    "sdk-dev:missing-catchall-variant"
+  ],
+  "plugin.inlang.messageFormat": {
+    "pathPattern": "./messages/{languageTag}.json"
+  },
+  "lintConfig": [
+    {
+      "ruleId": "messageBundleLintRule.test.TODO",
+      "level": "warning"
+    }
+  ]
+}
