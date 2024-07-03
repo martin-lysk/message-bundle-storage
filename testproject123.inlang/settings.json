@@ -3,7 +3,8 @@
   "baseLocale": "en",
   "locales": [
     "en",
-    "de"
+    "de",
+    "it"
   ],
   "modules": [
     "sdk-dev:opral-uppercase-lint.js",
@@ -17,6 +18,15 @@
     {
       "ruleId": "messageBundleLintRule.test.TODO",
       "level": "warning"
+    },
+    {
+      "ruleId": "sdk-dev:opral-uppercase-lint.js",
+      "level": "off"
     }
-  ]
+  ],
+  "languageTags": [
+    "en",
+    "de"
+  ],
+  "sourceLanguageTag": "en"
 }
