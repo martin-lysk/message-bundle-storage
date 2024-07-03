@@ -20,8 +20,8 @@
       "level": "warning"
     },
     {
-      "ruleId": "sdk-dev:opral-uppercase-lint.js",
-      "level": "error"
+      "ruleId": "messageBundleLintRule.inlangdev.makeOpralUppercase",
+      "level": "off"
     }
   ],
   "languageTags": [
