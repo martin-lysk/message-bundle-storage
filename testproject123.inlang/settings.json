@@ -21,12 +21,13 @@
     },
     {
       "ruleId": "sdk-dev:opral-uppercase-lint.js",
-      "level": "off"
+      "level": "warning"
     }
   ],
   "languageTags": [
     "en",
-    "de"
+    "de",
+    "it"
   ],
   "sourceLanguageTag": "en"
 }
